@@ -18,3 +18,4 @@ sources:
                   
       - name: STG_PAYMENTS
       - name: Emp1
+      - name: customers
